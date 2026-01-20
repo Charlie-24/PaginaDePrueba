@@ -16,4 +16,8 @@ jobs:
 
     steps:
       - name: Checkout del repositorio
+<<<<<<< HEAD
         uses: actions/checkout@v4
+=======
+        uses: actions/checkout@v4
+>>>>>>> 4d8633d9d5f3f3876ffe5417a913eb25e2d3d50f
