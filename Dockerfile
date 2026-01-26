@@ -1,4 +1,4 @@
-dockerfile web
+dockerfile 
 
 FROM nginx:alpine
 
